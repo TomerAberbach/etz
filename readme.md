@@ -87,7 +87,6 @@ Suppress all logs with `NO_ETZ`:
 
 ```shell
 $ NO_ETZ=1 node index.js
-
 ```
 
 The value of `NO_ETZ` doesn't matter. Any value works.
