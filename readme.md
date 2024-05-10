@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://npmjs.org/package/etz">
-    <img src="https://badgen.now.sh/npm/v/etz" alt="version" />
+    <img src="https://badgen.net/npm/v/etz" alt="version" />
   </a>
   <a href="https://github.com/TomerAberbach/etz/actions">
     <img src="https://github.com/TomerAberbach/etz/workflows/CI/badge.svg" alt="CI" />
@@ -106,10 +106,10 @@ For bugs and feature requests,
 [please create an issue](https://github.com/TomerAberbach/etz/issues/new).
 
 For pull requests, please read the
-[contributing guidelines](https://github.com/TomerAberbach/etz/blob/master/contributing.md).
+[contributing guidelines](https://github.com/TomerAberbach/etz/blob/main/contributing.md).
 
 ## License
 
-[Apache 2.0](https://github.com/TomerAberbach/etz/blob/master/license)
+[Apache License 2.0](https://github.com/TomerAberbach/etz/blob/main/license)
 
 This is not an official Google product.
