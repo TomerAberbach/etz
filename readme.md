@@ -9,8 +9,14 @@
   <a href="https://github.com/TomerAberbach/etz/actions">
     <img src="https://github.com/TomerAberbach/etz/workflows/CI/badge.svg" alt="CI" />
   </a>
+  <a href="https://unpkg.com/etz/dist/index.js">
+    <img src="https://deno.bundlejs.com/?q=etz&badge" alt="gzip size" />
+  </a>
+  <a href="https://unpkg.com/etz/dist/index.js">
+    <img src="https://deno.bundlejs.com/?q=etz&config={%22compression%22:{%22type%22:%22brotli%22}}&badge" alt="brotli size" />
+  </a>
   <a href="https://github.com/sponsors/TomerAberbach">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor" />
   </a>
 </div>
 
@@ -108,11 +114,9 @@ Stars are always welcome!
 For bugs and feature requests,
 [please create an issue](https://github.com/TomerAberbach/etz/issues/new).
 
-For pull requests, please read the
-[contributing guidelines](https://github.com/TomerAberbach/etz/blob/main/contributing.md).
-
 ## License
 
-[Apache License 2.0](https://github.com/TomerAberbach/etz/blob/main/license)
-
-This is not an official Google product.
+[MIT](https://github.com/TomerAberbach/etz/blob/main/license-mit) ©
+[Tomer Aberbach](https://github.com/TomerAberbach) \
+[Apache 2.0](https://github.com/TomerAberbach/etz/blob/main/license-apache) ©
+[Google](https://github.com/TomerAberbach/etz/blob/main/notice-apache)
